@@ -18,7 +18,9 @@ These seasonal forecasts are made based on the linear regression of sea surface 
 Coming soon, see twitter for a sneak peak. 
 
 
-##**Research**
+**Research**
+
+___
 
 
 My work is in subseasonal variability and prediction of tropical cyclone activity including MJO-ENSO interactions, evaluation of genesis indices and prediction with NESM, CCSM4 and ECMWF models.
