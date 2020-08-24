@@ -18,8 +18,7 @@ These seasonal forecasts are made based on the linear regression of sea surface 
 Coming soon, see twitter for a sneak peak. 
 
 
-**Research**
-
+# Research
 ___
 
 
