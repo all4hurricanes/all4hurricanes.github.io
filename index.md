@@ -1,8 +1,9 @@
-## Kurt Hansen
-# Ph.D candidate at the University of Miami Rosenstiel School for Marine and Atmospheric Science (RSMAS)
+# Kurt Hansen
+## Ph.D candidate at the University of Miami Rosenstiel School for Marine and Atmospheric Science (RSMAS)
 
 
 **About This Page**
+
 Hello! I’m Kurt, I research subseasonal prediction of tropical cyclones. I made this page to share forecasts and analysis. Right below you’ll see my seasonal and subseasonal forecasts for this season as well as an explanation on how I made these predictions. If you want to know more about me or my research check out my personal info further down.
 
 **2020 Seasonal Forecast**
