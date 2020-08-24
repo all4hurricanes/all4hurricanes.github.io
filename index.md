@@ -19,8 +19,6 @@ Coming soon, see twitter for a sneak peak.
 
 
 # Research
-___
-
 
 My work is in subseasonal variability and prediction of tropical cyclone activity including MJO-ENSO interactions, evaluation of genesis indices and prediction with NESM, CCSM4 and ECMWF models.
 
