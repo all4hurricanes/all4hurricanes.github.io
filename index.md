@@ -6,8 +6,9 @@
 
 Hello! I’m Kurt, I research subseasonal prediction of tropical cyclones. I made this page to share forecasts and analysis. Right below you’ll see my seasonal and subseasonal forecasts for this season as well as an explanation on how I made these predictions. If you want to know more about me or my research check out my personal info further down.
 
+Check out my twitter [@all4hurricanes1](https://twitter.com/all4hurricanes1) for up to date musings on tropical weather.
 
-![Twitter](https://image.pngaaa.com/891/84891-middle.png)
+
 ___
 
 **2020 Seasonal Forecast**
@@ -32,9 +33,9 @@ My work is in subseasonal variability and prediction of tropical cyclone activit
 
 **Outreach**
 
-I am a contributing author to the “Seasoned Chaos” blog. The blog is founded by Ben Kirtmann graduate students and aims to educate the public about recent research and topics related to subseasonal prediction. [Here](https://seasonedchaos.github.io/) is the Seasoned Chaos homepage. 
+I am a contributing author to the “Seasoned Chaos” blog. The blog is founded by Ben Kirtmann's graduate students and aims to educate the public about recent research and topics related to subseasonal prediction. [Here](https://seasonedchaos.github.io/) is the Seasoned Chaos homepage. 
 
-I am part of Canes on Canes an outreach group at RSMAS, we teach hurricane preparedness and science to a variety of audiences from elementary schools to business professionals. Check out a recording of our biggest event [here!](https://www.youtube.com/watch?v=5VKOYdmWM5I)
+I am part of Canes on Canes an outreach group at RSMAS. We teach hurricane preparedness and science to a variety of audiences from elementary schools to business professionals. Check out a recording of our biggest event [here!](https://www.youtube.com/watch?v=5VKOYdmWM5I)
 
 I've also done outreach as a part of climate group at the Miami Youth Climate Summits.
 
