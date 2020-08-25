@@ -25,7 +25,7 @@ Coming soon, see twitter for a sneak peak.
 
 # Research
 
-My work is in subseasonal variability and prediction of tropical cyclone activity including MJO-ENSO interactions, evaluation of genesis indices and prediction with NESM, CCSM4 and ECMWF models.
+My work is in subseasonal variability and prediction of tropical cyclone activity including MJO-ENSO interactions, evaluation of genesis indices and prediction with NESM, CCSM4 and ECMWF models. I am a 5th year Ph.D student working with Sharan Majumdar and Ben Kirtmann.
 
 **Publications**   
 
@@ -33,7 +33,7 @@ My work is in subseasonal variability and prediction of tropical cyclone activit
 
 **Outreach**
 
-I am a contributing author to the “Seasoned Chaos” blog. The blog is founded by Ben Kirtmann's graduate students and aims to educate the public about recent research and topics related to subseasonal prediction. [Here](https://seasonedchaos.github.io/) is the Seasoned Chaos homepage. 
+I am one of the authors of the “Seasoned Chaos” blog. This blog is founded by Ben Kirtmann's graduate students and aims to educate the public about recent research and topics related to subseasonal prediction. [Here](https://seasonedchaos.github.io/) is the Seasoned Chaos homepage. 
 
 I am part of Canes on Canes an outreach group at RSMAS. We teach hurricane preparedness and science to a variety of audiences from elementary schools to business professionals. Check out a recording of our biggest event [here!](https://www.youtube.com/watch?v=5VKOYdmWM5I)
 
