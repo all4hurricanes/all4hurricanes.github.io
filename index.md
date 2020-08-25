@@ -6,6 +6,10 @@
 
 Hello! I’m Kurt, I research subseasonal prediction of tropical cyclones. I made this page to share forecasts and analysis. Right below you’ll see my seasonal and subseasonal forecasts for this season as well as an explanation on how I made these predictions. If you want to know more about me or my research check out my personal info further down.
 
+
+![Twitter](https://image.pngaaa.com/891/84891-middle.png)
+___
+
 **2020 Seasonal Forecast**
 
 ![Cumulative ACE Forecast](https://user-images.githubusercontent.com/37673640/90967045-b248ac80-e4a7-11ea-8b72-8f7dde85324a.png)
