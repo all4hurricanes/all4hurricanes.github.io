@@ -18,7 +18,8 @@ ___
 
 *These seasonal forecasts are made based on the linear regression of sea surface temperatures (SSTs) in the main development region in the Atlantic and the SSTs in the Niño-3.4 region of the pacific. Accumulated cyclone energy or ACE is a measure of tropical cyclone activity that incorporates the intensity and longevity of a storm, it is essentially an integral of the squared maximum wind speed over time. Predictions, climatology and observed values of ACE are all based on tropical cyclone activity south of 30°N.*
 
-**Aug 18 Subseasonal Forecast**
+
+**Aug 25 Subseasonal Forecast**
 
 ![Subseasonal ACE Forecast](https://user-images.githubusercontent.com/37673640/91510338-c2e39300-e8aa-11ea-8ce3-b603a73e53d3.png)
 
