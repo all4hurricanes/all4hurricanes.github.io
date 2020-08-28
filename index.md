@@ -20,7 +20,9 @@ ___
 
 **Aug 18 Subseasonal Forecast**
 
-Coming soon, see twitter for a sneak peak. 
+![Subseasonal ACE Forecast](https://user-images.githubusercontent.com/37673640/91510338-c2e39300-e8aa-11ea-8ce3-b603a73e53d3.png)
+
+*This plot is like the seasonal forecast but it incorporates two other predictors, vertical wind shear and the Madden Julian Oscillation (MJO), that (hopefully) improve the predictions out to 15 days. However, the linear model was built on reanalysis data and assumes the predictions of shear and MJO are prefect (which they are definitely not). I am working on creating a linear model that incorporates the errors in predictions of these parameters. Shear forecast comes from the Navy-ESPC and MJO data from the [GFS ensemble forecast](https://www.cpc.ncep.noaa.gov/products/precip/CWlink/MJO/mjo.shtml).*
 
 
 # Research
