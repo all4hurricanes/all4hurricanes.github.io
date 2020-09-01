@@ -5,8 +5,8 @@
 
 These seasonal forecasts are made based on the linear regression of sea surface temperatures (SSTs) in the main development region in the Atlantic and the SSTs in the Niño-3.4 region of the pacific. Predictions, climatology and observed values of accumulated cyclone energy (ACE) are all based on tropical cyclone activity south of 30°N.
 
-![Cumulative ACE Forecast](https://user-images.githubusercontent.com/37673640/90967045-b248ac80-e4a7-11ea-8b72-8f7dde85324a.png)
-![Five Day ACE Forecast](https://user-images.githubusercontent.com/37673640/90968102-8a147a00-e4b6-11ea-9bfb-e45149444519.png)
+![Cumulative ACE Forecast](https://user-images.githubusercontent.com/37673640/91908824-250d1100-ec7a-11ea-9dcd-86fe0948226d.png)
+![Five Day ACE Forecast](https://user-images.githubusercontent.com/37673640/91908729-09096f80-ec7a-11ea-91f2-b62c4796abb7.png)
 
 **Aug 18 Subseasonal Forecast**
 
