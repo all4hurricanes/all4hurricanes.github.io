@@ -13,8 +13,8 @@ ___
 
 **2020 Seasonal Forecast**
 
-![Cumulative ACE Forecast](https://user-images.githubusercontent.com/37673640/91510287-9cbdf300-e8aa-11ea-86bc-7b0dba8ff134.png)
-![Five Day ACE Forecast](https://user-images.githubusercontent.com/37673640/91510231-713b0880-e8aa-11ea-9518-a9b080ba3ab5.png)
+![Cumulative ACE Forecast](https://user-images.githubusercontent.com/37673640/91908824-250d1100-ec7a-11ea-9dcd-86fe0948226d.png)
+![Five Day ACE Forecast](https://user-images.githubusercontent.com/37673640/91908729-09096f80-ec7a-11ea-91f2-b62c4796abb7.png)
 
 *These seasonal forecasts are made based on the linear regression of sea surface temperatures (SSTs) in the main development region in the Atlantic and the SSTs in the Niño-3.4 region of the pacific. Accumulated cyclone energy or ACE is a measure of tropical cyclone activity that incorporates the intensity and longevity of a storm, it is essentially an integral of the squared maximum wind speed over time. Predictions, climatology and observed values of ACE are all based on tropical cyclone activity south of 30°N.*
 
