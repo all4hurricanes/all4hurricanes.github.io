@@ -7,7 +7,7 @@
 Hello! I’m Kurt, I research subseasonal prediction of tropical cyclones. I made this page to share forecasts and analysis. Right below you’ll see my seasonal and subseasonal forecasts for this season as well as an explanation on how I made these predictions. If you want to know more about me or my research check out my personal info further down.
 
 Check out my twitter [@all4hurricanes1](https://twitter.com/all4hurricanes1) for up to date musings on tropical weather.
-
+Pronouns: He/Him
 
 ___
 
