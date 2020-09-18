@@ -19,9 +19,9 @@ ___
 *These seasonal forecasts are made based on the linear regression of sea surface temperatures (SSTs) in the main development region in the Atlantic and the SSTs in the Niño-3.4 region of the pacific. Accumulated cyclone energy or ACE is a measure of tropical cyclone activity that incorporates the intensity and longevity of a storm, it is essentially an integral of the squared maximum wind speed over time. Predictions, climatology and observed values of ACE are all based on tropical cyclone activity south of 30°N.*
 
 
-**Sept 8 Subseasonal Forecast**
+**Sept 15 Subseasonal Forecast**
 
-![Subseasonal ACE Forecast](https://user-images.githubusercontent.com/37673640/92930983-cd586d80-f410-11ea-8e2e-e5a3ccce8279.png)
+![Subseasonal ACE Forecast](https://user-images.githubusercontent.com/37673640/93628066-eb474480-f9b3-11ea-8dde-8e3edb058ad3.png)
 
 *This plot is like the seasonal forecast but it incorporates two other predictors, vertical wind shear and the Madden Julian Oscillation (MJO), that (hopefully) improve the predictions out to 15 days. However, the linear model was built on reanalysis data and assumes the predictions of shear and MJO are prefect (which they are definitely not). I am working on creating a linear model that incorporates the errors in predictions of these parameters. Shear forecast comes from the Navy-ESPC and MJO data from the [GFS ensemble forecast](https://www.cpc.ncep.noaa.gov/products/precip/CWlink/MJO/mjo.shtml).*
 
