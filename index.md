@@ -28,7 +28,7 @@ ___
 
 # Research
 
-My work is in subseasonal variability and prediction of tropical cyclone activity including MJO-ENSO interactions, evaluation of genesis indices and prediction with NESM, CCSM4 and ECMWF models. I am a 5th year Ph.D student working with Sharan Majumdar and Ben Kirtmann.
+My work is in subseasonal variability and prediction of tropical cyclone activity including MJO-ENSO interactions, evaluation of genesis indices and prediction with NESM, CCSM4 and ECMWF models. I am a 5th year Ph.D student working with Sharan Majumdar and Ben Kirtman.
 
 **Publications**   
 
