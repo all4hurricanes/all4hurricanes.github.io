@@ -23,7 +23,7 @@ ___
 
 ![Subseasonal ACE Forecast](https://user-images.githubusercontent.com/37673640/128365378-fec96418-b87d-4ea1-b127-a074e5932659.png)
 
-*This plot is like the seasonal forecast but it incorporates two other predictors, vertical wind shear and the Madden Julian Oscillation (MJO), that (hopefully) improve the predictions out to 15 days. However, the linear model was built on reanalysis data and assumes the predictions of shear and MJO are prefect (which they are definitely not). I am working on creating a linear model that incorporates the errors in predictions of these parameters. Shear forecast comes from the Navy-ESPC and MJO data from the [ECMWF ensemble forecast](https://apps.ecmwf.int/webapps/opencharts/products/mofc_multi_mjo_family_index).*
+*This plot is like the seasonal forecast but it incorporates two other predictors, vertical wind shear and the Madden Julian Oscillation (MJO), that (hopefully) improve the predictions out to 20 days. However, the linear model was built on reanalysis data and assumes the predictions of shear and MJO are prefect (which they are definitely not). I am working on incorporating a linear model that incorporates the errors in predictions of these parameters. Shear forecast comes from the Navy-ESPC and MJO data from the [ECMWF ensemble forecast](https://apps.ecmwf.int/webapps/opencharts/products/mofc_multi_mjo_family_index).*
 
 
 # Research
