@@ -13,15 +13,15 @@ ___
 
 **2021 Seasonal Forecast**
 
-![Cumulative ACE Forecast](https://user-images.githubusercontent.com/37673640/128367637-1962c339-fc72-41c6-8a44-10de4c412641.png)
-![Five Day ACE Forecast](https://user-images.githubusercontent.com/37673640/128367572-9c0d6470-3d5f-42df-8b41-789ea8ab509b.png)
+![Cumulative ACE Forecast](https://user-images.githubusercontent.com/37673640/129232400-dc562200-b0a5-40a6-862a-4cbcfb1d4e1e.png)
+![Five Day ACE Forecast](https://user-images.githubusercontent.com/37673640/129232331-67915b14-ccef-4451-a433-71293602444e.png)
 
 *These seasonal forecasts are made based on the linear regression of sea surface temperatures (SSTs) in the main development region in the Atlantic and the SSTs in the Niño-3.4 region of the pacific. Accumulated cyclone energy or ACE is a measure of tropical cyclone activity that incorporates the intensity and longevity of a storm, it is essentially an integral of the squared maximum wind speed over time. Predictions, climatology and observed values of ACE are all based on tropical cyclone activity south of 30°N.*
 
 
 **Aug 3 2021 Subseasonal Forecast**
 
-![Subseasonal ACE Forecast](https://user-images.githubusercontent.com/37673640/128365378-fec96418-b87d-4ea1-b127-a074e5932659.png)
+![Subseasonal ACE Forecast](https://user-images.githubusercontent.com/37673640/129232586-309d1ee0-49a4-4e91-b323-9470cd130542.png)
 
 *This plot is like the seasonal forecast but it incorporates two other predictors, vertical wind shear and the Madden Julian Oscillation (MJO), that (hopefully) improve the predictions out to 20 days. Yellow bars indicate the expected ACE from the seasonal forecast and green bars indicate the expected ACE from the subseasonal forecast. The red line indicates climatological ACE. The blue percentages indicate the odds of an above average period in terms of ACE anomalies according to the subseasonal forecast.
 The linear model was built on reanalysis data and assumes the predictions of shear and MJO are prefect (which they are definitely not). I am working on incorporating a linear model that incorporates the errors in predictions of these parameters. Shear forecast comes from the Navy-ESPC and MJO data from the [ECMWF ensemble forecast](https://apps.ecmwf.int/webapps/opencharts/products/mofc_multi_mjo_family_index).*
