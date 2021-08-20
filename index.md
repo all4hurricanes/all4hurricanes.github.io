@@ -21,7 +21,7 @@ ___
 
 **Aug 3 2021 Subseasonal Forecast**
 
-![Subseasonal ACE Forecast](https://user-images.githubusercontent.com/37673640/129232586-309d1ee0-49a4-4e91-b323-9470cd130542.png)
+![Subseasonal ACE Forecast](https://user-images.githubusercontent.com/37673640/130290770-010b6342-5aef-497e-bb1c-f0cd53659339.png)
 
 *This plot is like the seasonal forecast but it incorporates two other predictors, vertical wind shear and the Madden Julian Oscillation (MJO), that (hopefully) improve the predictions out to 20 days. Yellow bars indicate the expected ACE from the seasonal forecast and green bars indicate the expected ACE from the subseasonal forecast. The red line indicates climatological ACE. The blue percentages indicate the odds of an above average period in terms of ACE anomalies according to the subseasonal forecast.
 The linear model was built on reanalysis data and assumes the predictions of shear and MJO are prefect (which they are definitely not). I am working on incorporating a linear model that incorporates the errors in predictions of these parameters. Shear forecast comes from the Navy-ESPC and MJO data from the [ECMWF ensemble forecast](https://apps.ecmwf.int/webapps/opencharts/products/mofc_multi_mjo_family_index).*
